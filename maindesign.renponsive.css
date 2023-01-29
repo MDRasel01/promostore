@@ -1,0 +1,1245 @@
+/* header responsive start*/
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+
+  .search_br {
+      width: 489px !important;
+      padding-left: 63px !important;
+    }
+    .navber_icon_u {
+      padding-left: 40px !important;
+    }
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+
+  .new_nav_class {
+          padding: 8px 38px;
+      
+  }
+
+  .search_br {
+      width: 422px !important;
+      padding-left: 36px !important;
+  }
+
+  .navber_icon_u {
+      padding-left: 20px;
+    }
+}
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+ 
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+
+  .new_nav_class {
+    padding: 0px;
+    vertical-align: middle !important;
+  }
+
+  .search_br {
+    width: 620px !important;
+    padding-left: 28px !important;
+  }
+
+  .navber_logo {
+    width: 417px;
+    padding-left: 4px;
+  }
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .new_nav_class {
+      padding: 8px 8px !important;
+    }
+  .search_br {
+    width: 409px !important;
+    padding-left: 0px !important;
+  }
+  .navbar-toggler {
+    padding: 0.25rem 0rem;
+  }
+  .navber_logo {
+    Width: 367px;
+    padding-left: 01px;
+  }
+
+  .navbarNav li{
+    list-style: none !important;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+
+  .new_nav_class {
+    padding: 5px 0px;
+    vertical-align: middle !important;
+  }
+  .search_br {
+    width: 257px !important;
+    padding-left: 2px !important;
+  }
+  .navber_logo {
+    width: 280px;
+    padding-left: px;
+  }
+  .form-control {
+    width: 156PX;
+  }
+
+  .form input::placeholder{
+    font-size: 12px;
+  }
+  .menu{
+    padding: 0px;
+  }
+  
+}
+/* header responsive end*/
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    font-size: 12px;
+  }
+  .text__b button {
+    border: none;
+    background-color: #ffcd01;
+    border-radius: 39px 31px 31px 8px;
+    padding: 8px 18px;
+    font-family: Georgia;
+    color: #161f6b;
+    font-size: 15px;
+    position: absolute;
+    left: 140px;
+    top: -9px;
+  }
+  .f_p_h {
+	padding: 57px 0px 23px 51px !important;
+	text-align: center;
+  }
+  .product_1 img, .product_1 img {
+    width: 175px;
+    height: 112px;
+    border-radius: 20px;
+  }
+  .product_1 h4 {
+    font-size: 18px;
+    padding: 0px 12px 0px 0px;
+  }
+  .extrta {
+  font-size: 16px !important;
+  font-weight: 500;
+  padding-bottom: 8px !important;
+  }
+  .product_1 {
+    height: 249px;
+  }
+  .carousel-control-prev span {
+    margin-right: 124px !important;
+  }
+  .about_us {
+    background-color: #161F6B;
+    padding: 112px 20px;
+  }
+  .text_2 h1 {
+    color: #FFCD01;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 28px;
+  }
+  .text_2 p {
+    color: white;
+    font-family: Georgia;
+    text-align: left;
+    padding: 12px 0px;
+    font-size: 14px;
+  }
+  .text_2 button {
+    padding: 7px 16px;
+  }
+  .b_text_2 h1 {
+    font-size: 28px;
+  }
+  .b_text_2 p {
+    font-size: 11px;
+  }
+  .brand_bn {
+    padding: 7px 14px;
+  }
+  .text__b h2 {
+    font-size: 20px;
+  }
+  .img_big {
+    width: 184px;
+    height: 10px;
+    transform: rotate(17deg);
+  }
+  .img_big img {
+    position: absolute;
+    top: -85px;
+    left: 77px;
+  }
+  .extra_P h3 {
+    background-color: #161F6B;
+    text-align: left;
+    color: #FFCD01;
+    opacity: 0.9;
+    position: absolute;
+    top: 221px;
+    font-size: 31px;
+    width: 430PX;
+    font-family: Georgia;
+    font-weight: bold;
+    padding: 33px 0px 0px 128px;
+    height: 142px;
+  }
+  .part_2 h3 {
+    background-color: #161f6b;
+    text-align: left;
+    color: #FFCD01;
+    opacity: 0.9;
+    position: absolute;
+    top: 221px;
+    font-size: 29px;
+    width: 431PX;
+    font-family: Georgia;
+    font-weight: bold;
+    padding: 37px 0px 0px 95px;
+    height: 142px;
+  }
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .text__b button {
+
+        border: none;
+        background-color: #ffcd01;
+        border-radius: 39px 31px 31px 8px;
+        padding: 8px 18px;
+        font-family: Georgia;
+        color: #161f6b;
+        font-size: 15px;
+        position: absolute;
+        left: -215px;
+        top: 1px;
+    
+        }
+  
+  /* CSS */
+  .w-100 {
+    width: 100% !important;
+    height: 422px;
+  }
+  .f_p_h {
+    padding: 73px 0px 22px 0px;
+  }
+  .product_1 h4 {
+    background-color: #FFCD01;
+    border: 13px solid #FFCD01;
+    border-radius: 26px;
+    font-size: 13px;
+    padding: 0px 0px 0px 0px;
+  }
+  .product_1 h4 {
+    background-color: #FFCD01;
+    border: 13px solid #FFCD01;
+    border-radius: 26px;
+    font-size: 13px !important;
+    padding: 0px 0px 0px 0px !important;
+  }
+  .product_1 i {
+    border: 1px solid blue;
+    border-radius: 69px;
+    padding: 7px 8px;
+  }
+  .product_1 img, .product_1 img {
+    width: 121px;
+    height: 76px;
+    border-radius: 20px;
+  }
+  .product_1 {
+    background-color: #FFCD01;
+    border: 13px solid #FFCD01;
+    border-radius: 26px;
+    height: 193px;
+    width: 446px;
+  }
+  .lit_2 {
+    padding-top: 0px;
+  }
+  .all_see button {
+    font-family: Georgia;
+    color: #ffcd01;
+    border: none;
+    background-color: #161f6b;
+    border-radius: 39px 31px 31px 8px;
+    padding: 5px 18px;
+    margin: 39px 0px;
+  }
+  .imw img, .b_imag_text img {
+    height: 230px;
+    width: 52%;
+    border-radius: 62px 50px 57px 65px;
+  }
+  .imw img, .b_imag_text img {
+    height: 271px;
+    width: 87%;
+    border-radius: 28% 15% 14% 27%;
+    padding-left: 84px;
+  }
+  .text_2 h1 {
+    color: #FFCD01;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 22px;
+  }
+  .text_2 button {
+    border: none;
+    background-color: #ffcd01;
+    border-radius: 39px 31px 31px 8px;
+    padding: 8px 14px;
+    font-family: Georgia;
+    color: #161f6b;
+    font-size: 15px;
+    margin-left: 285px;
+  }
+  .text_2 p {
+    color: white;
+    font-family: Georgia;
+    text-align: center;
+    padding: 12px 0px;
+    font-size: 16px;
+  }
+  .b_text_2 h1 {
+    color: #161F6B;
+    font-family: Georgia;
+    font-weight: bold;
+    padding-right: 0px !important;
+    font-size: 28px;
+    text-align: center;
+  }
+  .b_text_2 p {
+    color: #161F6B;
+    font-family: Georgia;
+    text-align: center;
+    padding: 12px 0px;
+    font-size: 16px;
+  }
+  .brand_bn {
+    border: none;
+    background-color: #161f6b;
+    border-radius: 39px 31px 31px 8px;
+    padding: 7px 18px;
+    font-family: Georgia;
+    color: #ffcd01;
+    font-size: 15px;
+    margin-left: 264px;
+    margin-bottom: 26px;
+  }
+  .imw img, .b_imag_text img {
+    height: 271px;
+    width: 87%;
+    border-radius: 22% 10% 10% 21%;
+    padding-left: 84px;
+  }.text__b h2 {
+    color: white;
+    font-family: Georgia;
+    font-size: 17px;
+  }
+  .lets_disuss {
+    background-color: #161f6b;
+    padding: 46px 41px;
+    margin: 69px 44px;
+  }
+  .text__b {
+    padding-left: 174px;
+  }
+  .img_big {
+    width: 191px;
+    height: 1px;
+    transform: rotate(17deg);
+  }
+  .img_big img {
+    position: absolute;
+    top: -72px;
+    left: -11px;
+  }
+  .befre_footer {
+    padding: 66px 94px;
+  }
+  .extra_P img {
+    height: 500px;
+    width: 100%;
+    border-radius: 31px;
+  }
+  .extra_P h3 {
+    background-color: #161F6B;
+    text-align: left;
+    color: #FFCD01;
+    opacity: 0.9;
+    position: absolute;
+    top: 197px;
+    font-size: 31px;
+    width: 530px;
+    font-family: Georgia;
+    font-weight: bold;
+    padding: 32px 0px 0px 184px;
+    height: 134px;
+  }.extra_P img {
+    height: 510px;
+    width: 100%;
+    border-radius: 31px;
+  }
+  .part_2 h3 {
+    background-color: #161f6b;
+    text-align: left;
+    color: #FFCD01;
+    opacity: 0.9;
+    position: absolute;
+    top: 229px;
+    font-size: 28px;
+    width: 530px;
+    font-family: Georgia;
+    font-weight: bold;
+    padding: 40px 0px 0px 157px;
+    height: 146px;
+  }
+  .part_2 {
+    border-radius: 43px;
+    border: 13px solid #ffcd01;
+    position: relative;
+    margin-top: 36px;
+  }
+  .l7kk{
+    position: absolute;
+    left: 485px;
+  }
+  .text__n {
+    width: 39.667%;
+    padding-top: 21px;
+  }
+  
+}
+ 
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+    /* CSS */
+    .products {
+        display: grid !important;
+    }
+    .product_1 img, .product_1 img {
+        width: 100%;
+        height: 230px;
+        border-radius: 20px;
+    }
+    .products {
+        display: grid !important;
+        padding-left: 44px !important;
+    }
+    .product_1 {
+        background-color: #FFCD01;
+        border: 13px solid #FFCD01;
+        border-radius: 26px;
+        height: 286px;
+        width: 332px !important;
+    }
+    .product_1 h4 {
+        border-radius: 26px;
+        font-size: 20px;
+        padding: 12px 108px 0px 14px;
+     }
+     .product_1 {
+        background-color: #FFCD01;
+        border: 13px solid #FFCD01;
+        border-radius: 26px;
+        height: 367px !important;
+        width: 332px !important;
+    }
+    .about_us {
+        background-color: #161F6B;
+        padding: 81px 20px;
+        text-align: center !important;
+    }
+    .text_2 h1 {
+        padding-top: 28px;
+    }      
+    .text_2 p {
+        color: white;
+        font-family: Georgia;
+        text-align: center;
+        padding: 12px 0px;
+        font-size: 15px;
+    
+    }
+    .branded {
+        background-color: #ffcd01;
+        padding: 81px 0px;
+        text-align: center;
+    }
+    .b_text_2 p {
+        color: #161F6B;
+        font-family: Georgia;
+        text-align: center;
+        padding: 12px 12px;
+        font-size: 15px;
+      }
+      .b_text_2 h1 {
+        padding-right: 0px;
+    } 
+    .imw img, .b_imag_text img {
+        height: auto;
+        width: 92%;
+        border-radius: 88px 78px 58px 56px;
+        padding-top: 29px;
+      }
+    .lets_disuss {
+        background-color: #161f6b;
+        padding: 70px 50px;
+        margin: 39px 16px;
+        border-radius: 50px 50px 50px 10px;
+    }
+    .text__b h2 {
+        color: white;
+        font-family: Georgia;
+        font-size: 10px;
+    }
+    .text__b button {
+        border: none;
+        background-color: #ffcd01;
+        border-radius: 39px 31px 31px 8px;
+        padding: 5px 12px;
+        font-family: Georgia;
+        color: #161f6b;
+        font-size: 12px;
+        position: absolute;
+        left: 137px;
+        top: -6px;
+      }
+    .lets_disuss {
+        background-color: #161f6b;
+        padding: 27px 20px;
+        margin: 39px 16px;
+        border-radius: 50px 50px 50px 10px;
+    }
+    .img_big {
+        width: 102px;
+        height: 0px;
+        transform: rotate(17deg);
+    }
+    .img_big img {
+        position: absolute;
+        top: -44px;
+        left: 1px;
+      }
+      .text__b {
+        padding-left: 82px;
+        position: relative;
+      }
+    .extra_P {
+        border-radius: 43px;
+        border: 13px solid #FFCD01;
+        position: relative;
+        margin: 0px 37px;
+    }
+    .extra_P img {
+        height: 419px;
+        width: 100%;
+        border-radius: 31px;
+    }
+    .extra_P h3 {
+        background-color: #161F6B;
+        text-align: left;
+        color: #FFCD01;
+        opacity: 0.9;
+        position: absolute;
+        top: 171px;
+        font-size: 23px;
+        width: 357px;
+        font-family: Georgia;
+        font-weight: bold;
+        padding: 32px 0px 0px 121px;
+        height: 113px;
+    }.part_2 {
+        border-radius: 43px;
+        border: 13px solid #ffcd01;
+        position: relative;
+        margin: 0px 39px;
+        margin-top: 32px;
+    }
+    .part_2 img {
+        height: 475px;
+        width: 100%;
+        border-radius: 31px;
+    }
+    .part_2 h3 {
+        background-color: #161f6b;
+        text-align: left;
+        color: #FFCD01;
+        opacity: 0.9;
+        position: absolute;
+        top: 200px;
+        font-size: 23px;
+        width: 352px;
+        font-family: Georgia;
+        font-weight: bold;
+        padding: 37px 0px 0px 79px;
+        height: 122px;
+    }
+
+      
+}
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    .w-100 {
+        width: 100% !important;
+        height: 310px !important;
+    }
+    .f_p_h {
+        padding: 39px 0px !important;
+    }
+    .about_us {
+        background-color: #161F6B;
+        padding: 50px 7px;
+        text-align: center;
+    }
+    .imag_text img {
+        padding-left: 22px;
+        padding-bottom: 20px;
+    }
+    .text_2 p {
+        color: white;
+        font-family: Georgia;
+        text-align: center;
+        padding: 12px 0px;
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .text_2 button {
+        border: none;
+        background-color: #ffcd01;
+        border-radius: 39px 31px 31px 8px;
+        padding: 6px 18px;
+        font-family: Georgia;
+        color: #161f6b;
+        font-size: 15px;
+    }
+    .branded {
+        background-color: #ffcd01;
+        padding: 46px 0px;
+    }
+    .b_text_2 h1 {
+        color: #161F6B;
+        font-family: Georgia;
+        font-weight: bold;
+        font-size: 19px;
+        text-align: center;
+    }
+    .b_text_2 h1 {
+        color: #161F6B;
+        font-family: Georgia;
+        font-weight: bold;
+        font-size: 20px;
+        text-align: center;
+        padding: 0px;
+    }
+    .b_text_2 p {
+        color: #161F6B;
+        font-family: Georgia;
+        text-align: center;
+        padding: 12px 0px;
+        font-size: 13px;
+    }
+    .brand_bn {
+        border: none;
+        background-color: #161f6b;
+        border-radius: 39px 31px 31px 8px;
+        padding: 7px 23px;
+        font-family: Georgia;
+        color: #ffcd01;
+        font-size: 15px;
+        margin-left: 57px !important;
+        margin-bottom: 20px;
+    }
+    .extra_P img {
+        height: 381px;
+        width: 100%;
+        border-radius: 31px;
+    }
+    .extra_P h3 {
+        background-color: #161F6B;
+        text-align: left;
+        color: #FFCD01;
+        opacity: 0.9;
+        position: absolute;
+        top: 167px;
+        font-size: 15px;
+        width: 270px;
+        font-family: Georgia;
+        font-weight: bold;
+        padding: 23px 0px 0px 86px;
+        height: 85px;
+    }
+    .part_2 img {
+        height: 400px;
+        width: 100%;
+        border-radius: 31px;
+    }
+    .part_2 {
+        border-radius: 43px;
+        border: 13px solid #ffcd01;
+        position: relative;
+        margin-top: 30px;
+    }
+    .part_2 h3 {
+        background-color: #161f6b;
+        text-align: left;
+        color: #FFCD01;
+        opacity: 0.9;
+        position: absolute;
+        top: 171px;
+        font-size: 16px;
+        width: 270px;
+        font-family: Georgia;
+        font-weight: bold;
+        padding: 27px 0px 0px 72px;
+        height: 90px;
+    }
+    .lets_disuss {
+        background-color: #161f6b;
+        padding: 0px 0px;
+        margin: 19px 5px;
+        border-radius: 50px 50px 50px 10px;
+    }
+    .text__b h2 {
+        color: white;
+        font-family: Georgia;
+        font-size: 7px;
+
+    }
+    .img_big {
+        width: 87px;
+        height: 32px;
+        transform: rotate(17deg);
+    }
+    .img_big img {
+        position: absolute;
+        top: 5px;
+        left: -38px;
+    }
+
+    .text__b {
+        padding-left: 31px;
+        position: relative;
+    }
+    .text__b button {
+      border: none;
+      background-color: #ffcd01;
+      border-radius: 39px 31px 31px 8px;
+      padding: 3px 3px;
+      font-family: Georgia;
+      color: #161f6b;
+      font-size: 7px;
+      position: absolute;
+      top: -9px;
+      left: 71px !important;
+    }
+
+      .products {
+        display: grid !important;
+      }
+        .product_1 {
+          background-color: #FFCD01;
+          border: 13px solid #FFCD01;
+          border-radius: 26px;
+          height: 289px;
+          width: 250px;
+        }
+      .product_1 h4 {
+        border-radius: 26px;
+        font-size: 20px;
+        padding: 9px 52px 0px 0px;
+          padding-bottom: 0px;
+      }
+      .f_p_h {
+        padding: 39px 0px 0px 0px !important;
+  }
+  .lets_disuss {
+    background-color: #161f6b;
+    padding: 3px 0px 10px 0px;
+    margin: 19px 5px;
+    border-radius: 50px 50px 50px 10px;
+  }
+  .text__n {
+    padding-top: 0px;
+  }
+}
+
+/* footer responsive start */
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+  .footer_email {
+      font-family: Georgia;
+      font-weight: bold;
+      color: #161F6B;
+      background-color: #FFCD01;
+      width: 107px;
+      text-align: center;
+      height: 47px;
+      padding-top: 12px;
+      position: absolute;
+      top: 1px;
+      left: 139px;
+      font-size: 13px;
+  }
+
+    .footer_s {
+      height: 48px;
+      width: 247px;
+    }
+
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .f_footer_logo, .f_footer_logo img {
+      height: auto;
+      width: 100%;
+      padding: 0px 83px !important;
+  
+  }
+  .img_rihgt {
+      height: 17px;
+  }
+  .ll {
+      flex: 0 0 auto;
+      width: 54.667% !important;
+      padding-left: 0px !important;
+  }
+  .footer {
+  background-color: #161F6B;
+  padding: 22px 30px 70px 30px;
+  text-align: center;
+      }
+
+  .navber_icon_u {
+      list-style: none;
+      font-size: 25px;
+  }
+  .footer_widget_head h3 {
+      color: #FFCD01;
+      font-size: 21px;
+      padding: 0px 0px 13px 44px;
+      font-family: Georgia;
+      font-weight: bold;
+  }
+  .footer_widget_head h3 {
+      color: #FFCD01;
+      font-size: 21px;
+      padding: 0px 0px 13px 4px;
+      font-family: Georgia;
+      font-weight: bold;
+  }
+  .footer_widget_point {
+      color: white;
+      text-decoration: none;
+      font-family: Georgia;
+      font-size: 15px;
+      line-height: 28px;
+  }
+  
+  .footer_widget_point {
+      color: white;
+      text-decoration: none;
+      font-family: Georgia;
+      font-size: 15px;
+      line-height: 28px;
+      padding: 0px 185px !important;
+  }
+  .footer_s {
+      height: 48px;
+      width: 410px;
+      margin-left: 134px;
+      padding-top: 0px;
+  }
+  .footer_email {
+      font-family: Georgia;
+      font-weight: bold;
+      color: #161F6B;
+      background-color: #FFCD01;
+      width: 119px;
+      text-align: center;
+      height: 46px;
+      padding-top: 12px;
+      position: absolute;
+      top: 1px;
+      left: 425px;
+  }
+  .footer_copyrihgt {
+      background-color: #FFCD01;
+      padding: 28px 13px 3px 121px;
+  
+  }
+  .img_rihgt img {
+      height: auto;
+      width: 100%;
+      padding-right: 49px;
+  }
+  .img_rihgt {
+      height: 17px;
+      padding-left: 115px;
+  }
+  .img_rihgt img {
+  height: auto;
+  width: 100%;
+  padding-right: 12px !important;
+  }
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .ll {
+      flex: 0 0 auto;
+      width: 54.667% !important;
+      padding-left: 0px !important;
+  }
+
+  .footer {
+      background-color: #161F6B;
+      padding: 25px 30px 70px 30px;
+        padding-top: 25px;
+        padding-right: 30px;
+        padding-bottom: 70px;
+        padding-left: 30px;
+  }
+  .footer {
+      background-color: #161F6B;
+      padding: 25px 30px 70px 30px;
+      padding-top: 25px;
+      padding-right: 30px;
+      padding-bottom: 70px;
+      padding-left: 30px;
+      text-align: center !important;
+  }
+  .f_social_media {
+      padding-left: 1.2rem;
+      font-size: 25px;
+  
+  }
+  .footer_widget_head h3 {
+      color: #FFCD01;
+      font-size: 25px;
+      padding: 0px 0px 13px 10px;
+      font-family: Georgia;
+      font-weight: bold;
+  }
+  .footer_widget_point {
+      color: white;
+      text-decoration: none;
+      font-family: Georgia;
+      font-size: 18px;
+      line-height: 28px;
+  }
+  .footer_s {
+      height: 48px;
+      width: 361px;
+      margin-left: 26px;
+  }
+  .footer_email {
+      font-family: Georgia;
+      font-weight: bold;
+      color: #161F6B;
+      background-color: #FFCD01;
+      width: 119px;
+      text-align: center;
+      height: 46px;
+      padding-top: 12px;
+      position: absolute;
+      top: 1px;
+      left: 242px;
+  }
+  .footer_copyrihgt {
+      padding: 16px 12px 3px 16px;;
+  }
+  .img_rihgt {
+      height: 17px;
+      padding-left: 52px;
+  }
+  .footer_email {
+      font-family: Georgia;
+      font-weight: bold;
+      color: #161F6B;
+      background-color: #FFCD01;
+      width: 119px;
+      text-align: center;
+      height: 46px;
+      padding-top: 12px;
+      position: absolute;
+      top: 1px;
+      left: 267px;
+  }
+  .img_rihgt img {
+      height: auto;
+      width: 95%;
+      padding-right: 6px !important;
+  }
+    
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .footer {
+      background-color: #161F6B;
+      padding: 25px 30px 70px 30px;
+        padding-top: 25px;
+        padding-right: 30px;
+        padding-bottom: 70px;
+        padding-left: 30px;
+  }
+
+  .ll {
+      flex: 0 0 auto;
+      width: 54.667% !important;
+      padding-left: 0px !important;
+  }
+  .footer {
+      background-color: #161F6B;
+      padding: 25px 30px 70px 30px;
+      padding-top: 25px;
+      padding-right: 30px;
+      padding-bottom: 70px;
+      padding-left: 30px;
+      text-align: center !important;
+  }
+  .f_social_media {
+      padding-left: 1.2rem;
+    }
+    .footer_widget_head h3 {
+      color: #FFCD01;
+      font-size: 18px;
+      padding: 0px 0px 13px 10px;
+      font-family: Georgia;
+      font-weight: bold;
+    }
+    .footer_widget_point {
+      color: white;
+      text-decoration: none;
+      font-family: Georgia;
+      font-size: 12px;
+      line-height: 28px;
+    }
+    .footer_s {
+      height: 43px;
+      width: 265px;
+    }
+    
+  .footer_email {
+      font-family: Georgia;
+      font-weight: bold;
+      color: #161F6B;
+      background-color: #FFCD01;
+      width: 119px;
+      text-align: center;
+      height: 46px;
+      padding-top: 12px;
+      position: absolute;
+      top: 1px;
+      left: 242px;
+  }
+  .footer_copyrihgt {
+      padding: 16px 12px 3px 16px;;
+  }
+  .img_rihgt {
+      height: 17px;
+      padding-left: 52px;
+  }
+  .footer_email {
+      font-family: Georgia;
+      font-weight: bold;
+      color: #161F6B;
+      background-color: #FFCD01;
+      width: 102px;
+      text-align: center;
+      height: 42px;
+      padding-top: 12px;
+      position: absolute;
+      top: 0px;
+      left: 162px;
+      font-size: 13px;
+    }
+    .img_rihgt img {
+      height: 11px !important;
+      width: 39px !important;
+      padding-right: 6px !important;
+    }
+  .copyrithh_text p {
+      font-family: Georgia;
+      font-weight: bold;
+      color: #161F6B;
+      font-size: 7px;
+  }
+  .footer_copyrihgt {
+      padding: 12px 0px 0px 9px !important;
+  }
+  .img_rihgt {
+      height: 13px;
+      padding-left: 27px;
+  }
+  
+}
+
+/* footer responsive end */

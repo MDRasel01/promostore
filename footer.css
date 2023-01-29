@@ -1,0 +1,513 @@
+/* footer css start  */
+
+/* font-family: Georgia;
+    font-weight: bold; */
+    /* background-color: #161F6B;(blue)
+    background-color: #FFCD01;(yellow) */
+
+
+    /* footer code start */
+
+.footer{
+    background-color: #161F6B;
+padding: 70px 30px 70px 30px;
+}
+
+.footer_widget_point{
+    color: white;
+    text-decoration: none;
+    font-family: Georgia;
+    font-size: 12px;
+    line-height: 28px;
+  }
+
+.f_footer_logo img{
+    height: auto;
+width: 100%;
+}
+
+.f_social_media{
+    padding-left: 3.2rem;
+}
+
+  .fa-brands, .fab {
+    font-weight: 400;
+    color: #FFCD01;
+  }
+
+.footer_widget ul{
+    padding-left: 10px;
+}
+
+.footer_widet_1{
+    padding-top: 10px;
+}
+
+.footer_widget ul li{
+    padding-bottom: 10px;
+    list-style: none;
+}
+
+.footer_widget_head h3{
+    color: #FFCD01;
+    font-size: 19px;
+    padding: 0px 0px 13px 10px;
+    font-family: Georgia;
+    font-weight: bold;
+
+}
+
+
+.footer_widget_subscribe_head h3{
+    color: #FFCD01;
+    font-size: 19px;
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+.footer_widget_subscribe_head{
+    color: #FFCD01;
+font-weight: bold; 
+}
+
+.footer_widget_subscribe_des{
+    color: white;
+    padding: 14px 0px;
+}
+/* dropwown code end */
+.down_1{
+    background-color: transparent;
+color: black;
+border: none;
+}
+
+.down_1:hover{
+    background-color: transparent;
+    color: #161F6B;
+}
+
+.all_thisn{
+    font-family: Georgia;
+}
+
+.dropwon_text a{
+    text-decoration: none;
+    color: #161f6b;
+    font-size: 15px;
+}
+/* dropwnlad code end */
+
+/*  */
+
+
+/* footer code end */
+
+.footer_copyrihgt{
+    background-color: #FFCD01;
+    padding: 28px 190px 3px 190px;
+}
+
+.f_social_media li {
+    display: inline-block;
+    padding-right: 10px;
+  }
+
+  .navber_icon_u {
+    list-style: none;
+    padding-left: 0px;
+    padding-top: .3rem;
+  }
+
+  
+  .form-control {
+    width: 282px;
+  }
+  .footer_email {
+    font-family: Georgia;
+    font-weight: bold;
+    color: #161F6B;
+    background-color: #FFCD01;
+    width: 121px;
+    text-align: center;
+    height: 46px;
+    padding-top: 12px;
+    position: absolute;
+    top: 1px;
+    right: -118px !important;
+  }
+
+.susb_etxra{
+    line-height: 22px;
+}
+.copyrithh_text p{
+    font-family: Georgia;
+    font-weight: bold;
+    color: #161F6B;
+    font-size: 12px;
+
+}
+
+.footer_email_iput{
+    position: relative;
+}
+
+.footer_email {
+	font-family: Georgia;
+	font-weight: bold;
+	color: #161F6B;
+	background-color: #FFCD01;
+	width: 119px;
+	text-align: center;
+	height: 46px;
+	padding-top: 12px;
+	position: absolute;
+	top: 1px;
+	left: 162px;
+}
+
+.footer_s{
+    height: 48px;
+}
+
+
+/* footer code end */
+
+/* about us code start */
+.imw img, .b_imag_text img{
+    height: auto;
+    width: 100%;
+    border-radius: 58px 58px 58px 48px;
+
+    
+}
+
+.about_us{
+    background-color: #161F6B;
+    padding: 81px 20px;
+}
+.text_2 h1{
+    color: #FFCD01;
+    font-family: Georgia;
+	font-weight: bold;
+    
+}
+
+.text_2 p{
+color: white;
+font-family: Georgia;
+text-align: left;
+padding: 12px 0px;
+
+}
+
+.text_2 button{
+    border: none;
+    background-color: #ffcd01;
+    border-radius: 39px 31px 31px 8px;
+    padding: 10px 23px;
+    font-family: Georgia;
+    color: #161f6b;
+    font-size: 15px;
+}
+.imag_text img{
+    padding-left: 22px;
+
+}
+.text_2, .branded{
+    padding-left: 22px;
+}
+/* about us code end  */
+
+/* brand code srat here */
+.branded{
+    background-color: #ffcd01;
+    padding: 81px 20px;
+
+}
+.b_text_2 h1{
+    color: #161F6B;
+    font-family: Georgia;
+    font-weight: bold;
+    padding-right: 69px;
+}
+
+.b_text_2 p{
+    color: #161F6B;
+font-family: Georgia;
+text-align: left;
+padding: 12px 0px;
+
+}
+
+.b_text_2{
+    padding-left: 30px;
+    padding-right:10px;
+
+}
+
+.brand_bn{
+    border: none;
+    background-color: #161f6b;
+    border-radius: 39px 31px 31px 8px;
+    padding: 10px 23px;
+    font-family: Georgia;
+    color: #ffcd01;
+    font-size: 15px;
+
+}
+/* brand code ennd here */
+
+/* lets disccuss code0 start here */
+
+.lets_disuss{
+    background-color: #161f6b;
+padding: 70px 50px;
+margin: 70px 106px;
+border-radius: 50px 50px 50px 10px;
+}
+
+.text__b button{
+    border: none;
+    background-color: #ffcd01;
+    border-radius: 39px 31px 31px 8px;
+    padding: 8px 18px;
+    font-family: Georgia;
+    color: #161f6b;
+    font-size: 15px;
+
+}
+.text__b h2{
+    color: white;
+    font-family: Georgia;
+
+}
+
+.text__B_T, .yi{
+    font-family: Georgia;
+ font-weight: bold;
+}
+.text__b{
+    padding-left: 31px;
+}
+.text__n{
+    width: 39.667%;
+padding-top: 10px;
+
+}
+.img_big img{
+    height: auto;
+    width: 100%;
+
+}
+.img_big {
+	width: 233px;
+	height: 32px;
+    transform: rotate(17deg);
+}
+/* lets disccuss code0 end here */
+
+
+/* lets disccuss code0 start here */
+.extra_P img{
+height: 584px;
+width: 100%;
+border-radius: 31px;
+}
+
+.extra_P h3{
+    background-color: #161F6B;
+    text-align: left;
+    color: #FFCD01;
+    opacity: 0.9;
+    position: absolute;
+    top: 221px;
+    font-size: 20px;
+    width: 521px;
+    font-family: Georgia;
+    font-weight: bold;
+    padding: 56px 0px 0px 190px;
+    height: 154px;
+
+}
+
+.part_2{
+    border-radius: 43px;
+border: 13px solid #ffcd01;
+position: relative;
+}
+.part_2 h3{
+    background-color: #161f6b;
+    text-align: left;
+    color: #FFCD01;
+    opacity: 0.9;
+    position: absolute;
+    top: 221px;
+    font-size: 20px;
+    width: 521px;
+    font-family: Georgia;
+    font-weight: bold;
+    padding: 56px 0px 0px 190px;
+    height: 154px;
+  
+}
+
+.part_2 img{
+    height: 584px;
+    width: 100%;
+    border-radius: 31px;
+}
+
+.extra_P{
+    border-radius: 43px;
+border: 13px solid #FFCD01;
+position: relative;
+}
+
+/* lets disccuss code0 end here */
+
+
+/* featured products code0 stsrt here */
+.f_p_h {
+    padding: 50px 0px;
+}
+.f_p_h h1{
+    color: #161F6B;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tttt{
+    position: relative;
+    padding-left: 99px;
+}
+
+.all_see button{
+    font-family: Georgia;
+    color: #ffcd01;
+    border: none;
+    background-color: #161f6b;
+    border-radius: 39px 31px 31px 8px;
+    padding: 8px 26px;
+    margin: 39px 0px;
+}
+
+.see_bn{
+    text-align: center;
+}
+.befre_footer{
+    padding: 66px 0px;
+}
+.img_big img{
+    position: absolute;
+    top: -123px;
+    left: 128px;
+}
+
+.spwed{
+    padding-left: 132px;
+}
+
+.lit_2{
+    padding-top: 23px;
+}
+
+.product_1{
+    background-color: #FFCD01;
+border: 13px solid #FFCD01;
+border-radius: 26px;
+}
+.product_1 img, .product_1 img{
+    width: 223px;
+    height: 137px;
+    border-radius: 20px;
+  
+
+}
+
+.products{
+    display: flex;
+}
+
+.product_1 h4{
+    background-color: #FFCD01;
+    border: 13px solid #FFCD01;
+    border-radius: 26px;
+    font-size: 20px;
+    padding-right: 9px;
+
+
+}
+.product_1 i{
+    border: 1px solid blue;
+    border-radius: 69px;
+    padding: 7px 8px;
+  
+}
+
+.product_1 a{
+    color: #161F6B;
+}
+.hh {
+    width: 44%;
+  }
+
+/* .active{
+    color: white;
+    border: 1px solid #161f6b;
+    border-radius: 69px;
+    background-color: #161f6b;
+    padding: 7px 8px;
+} */
+/* featured products code0 end here */
+
+/* footercopyrigh code0 end here */
+.ll {
+    flex: 0 0 auto;
+    width: 54.667% !important;
+    padding-left: 288px !important;
+  }
+
+
+
+
+.img_rihgt img {
+    height: 19px !important;
+    width: 52px !important;
+  }
+
+.img_rihgt li{
+    list-style: none;
+    display: inline-block;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 7rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+    background-color: #ffcd01;
+    color: blue;
+  }
+
+  .carousel-control-prev span{
+    margin-right: 147px !important;
+
+  }
+
+  .carousel-control-next{
+    margin-right: -68px !important;
+
+  }
+  .img_rihgt img {
+    height: auto;
+    width: 100%;
+    padding-right: 7px !important;
+  }
+/* footercopyrigh code0 end here */
+/* footer css end  */
+
+
+
+

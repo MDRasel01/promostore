@@ -1,0 +1,161 @@
+
+/* neseaary cse */ 
+
+/* font-family: Georgia;
+    font-weight: bold; */
+    /* background-color: #161F6B;(blue)
+    background-color: #FFCD01;(yellow) */
+
+
+/* navber code start */
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    font-family: Georgia;
+
+}
+
+.sitelogo{
+    height: auto;
+width: 100%;
+}
+.navber_logo{
+    width: 260px;
+
+}
+
+.search_br{
+    position: relative;
+}
+
+/* .search_br input{
+    border: 2px solid #161F6B;
+} */
+
+.search_br i{
+    position: absolute;
+    top: 12px;
+    right: 13px;
+    color: #161F6B;
+}
+
+.navber_c a i{
+    padding-right: 11px;
+    font-size: 20px;
+    padding-top: 12px;
+
+}
+
+.navbar{
+    background-color: #FFCD01;
+}
+
+.new_nav_class{
+    padding: 8px 100px;
+    vertical-align: middle !important;
+}
+
+form input::placeholder{
+    font-family: Georgia;
+}
+
+.search_br{
+    width: 563px !important;
+padding-left: 122px !important;
+
+}
+
+.w-100 {
+	width: 100% !important;
+	height: 500px
+}
+
+.header_logo{
+    height: auto;
+width: 100%;
+background-color: transparent;
+}
+
+.navber_icon_u{
+    padding-top: 13px;
+    padding-left: 51px;
+}
+
+.navber_c{
+    display: inline-block;
+text-decoration: none;
+padding-right: 8px;
+
+}
+
+.point_vart{
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 8px;
+}
+
+.point_vart a{
+    color: #161F6B !important;
+    text-decoration: none;
+    font-family: Georgia;
+}
+
+.point_extra_gap{
+    border-right: 2px solid #161F6B;
+padding: 0px 10px;
+  padding-top: 0px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+border-left: 2px solid #161F6B;
+
+}
+.navber_c a{
+    color: #161F6B;
+    text-decoration: none;
+    font-family: Georgia;
+}
+
+.f_social_media ul li{
+    color: #FFCD01;
+    font-size: 21px;
+    padding-right: 11px;
+}
+
+.exra_space{
+    font-size: 19px;
+}
+
+
+.navber_menu, .nav_li{
+    list-style: none;
+}
+
+.navber_menu, .nav_li {
+  list-style: none;
+  padding: 0rem 0rem 0rem 0rem;
+}
+
+.dropdown-item {
+    padding: .25rem 1rem;
+  }
+
+.dropdown-item i{
+    padding-right: 10px;
+
+}
+
+.exra{
+    padding: -0.9rem 1rem;
+border-left: 2px solid #161F6B;
+border-right: 2px solid #161F6B;
+}
+
+.navbar-toggler-icon{
+    border: none;
+}
+/* navber code end */

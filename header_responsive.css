@@ -1,0 +1,136 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+
+    .search_br {
+        width: 489px !important;
+        padding-left: 63px !important;
+      }
+      .navber_icon_u {
+        padding-left: 40px !important;
+      }
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+
+    .new_nav_class {
+            padding: 8px 38px;
+        
+    }
+
+    .search_br {
+        width: 422px !important;
+        padding-left: 36px !important;
+    }
+
+    .navber_icon_u {
+        padding-left: 20px;
+      }
+  }
+
+
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+
+   
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+
+    .new_nav_class {
+      padding: 0px;
+      vertical-align: middle !important;
+    }
+
+    .search_br {
+      width: 620px !important;
+      padding-left: 28px !important;
+    }
+
+    .navber_logo {
+      width: 513px;
+      padding-left: 204px;
+    }
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    .new_nav_class {
+        padding: 8px 8px !important;
+      }
+    .search_br {
+      width: 409px !important;
+      padding-left: 0px !important;
+    }
+    .navbar-toggler {
+      padding: 0.25rem 0rem;
+    }
+    .navber_logo {
+      width: 367px;
+      padding-left: 101px;
+    }
+
+    .navbarNav li{
+      list-style: none !important;
+    }
+    
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+
+    .new_nav_class {
+      padding: 5px 0px;
+      vertical-align: middle !important;
+    }
+    .search_br {
+      width: 257px !important;
+      padding-left: 2px !important;
+    }
+    .navber_logo {
+      width: 280px;
+      padding-left: 42px;
+    }
+    
+  }
