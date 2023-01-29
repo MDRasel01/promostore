@@ -715,8 +715,8 @@ padding-right: 6px;
     }
     
     .footer_s {
-        height: 47px;
-        width: 281px;
+        height: 47px !important;
+        width: 281px !important;
     }
     
     
