@@ -973,8 +973,8 @@ padding-right: 6px;
     
     }
     
-    .products{
-        display: flex;
+    .products {
+        padding-left: 20px;
     }
     
     .product_1 h4{
